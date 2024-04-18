@@ -8,6 +8,7 @@ def elbow_plot(data, clusters):
         algorithm = KMeans(
             n_clusters=n,
             init='k-means++',
+            n_init='auto',
             random_state=125,
         )
         algorithm.fit(data)
