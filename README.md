@@ -1,4 +1,3 @@
-```markdown
 # ElbowPlot
 
 ElbowPlot is a Python library designed to facilitate the visualization of the optimal number of clusters in K-means clustering through the elbow method. This method is particularly useful in unsupervised learning to determine the ideal number of clusters by identifying the point at which the within-cluster sum of squares (WCSS) begins to diminish, forming an "elbow".
@@ -82,4 +81,3 @@ Contributions to ElbowPlot are welcome! Please fork the project, make your chang
 ## License
 
 ElbowPlot is open-source software licensed under the MIT license. See the LICENSE file for more details.
-```
