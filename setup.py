@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='elbowplot',
-    version='0.2.0',
+    version='0.3.0',
     packages=find_packages(),
     description='A simple library to plot the elbow plot for K-means clustering.',
     long_description=open('README.md').read(),
